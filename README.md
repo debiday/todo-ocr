@@ -1,4 +1,4 @@
-# Project Name
+# todo-ocr
 
 ## Setup and Running
 
