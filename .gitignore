@@ -1,0 +1,41 @@
+# .gitignore
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+todo_env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+
+# PyCharm IDE settings
+.idea/
+
+# Databases
+*.db
+*.sqlite3
+
+# Logs
+logs/
+*.log
+
+# Local settings file
+local_settings.py
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.tox/
+
+# Distutils
+build/
+dist/
+*.egg-info/
